@@ -22,3 +22,9 @@
 /ProjectSettings/ProjectVersion.txt
 /Packages/*
 /UnityPackageManager/*
+
+/Logs/*
+/UserSettings/*
+
+/.vsconfig
+Assets/GameFramework
